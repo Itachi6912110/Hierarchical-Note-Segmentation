@@ -1,6 +1,9 @@
 # Hierarchical-Note-Segmentation
 Realization for note segmentation by using hierarchical objective function
 
+# Demo
+For full and real-world demo, please refer to https://github.com/Itachi6912110/WAV2MIDI
+
 # Loading Data
 ```
 bash/dataset.sh
