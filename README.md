@@ -1,5 +1,5 @@
 # Hierarchical-Note-Segmentation
-Realization for note segmentation by using hierarchical objective function
+Realization for note segmentation by using hierarchical objective function with utils of Resnet-18 or attention-RNN
 
 # Requirements
 Before starting all the tasks bellow, make sure the environment is well set:   
