@@ -24,3 +24,9 @@ bash script/eval_resnet_fmeasure.sh
 - For evaluating on rnn-attn-19
 ```
 bash script/eval_sdt6_fmeasure.sh
+```
+
+# Visualization
+```
+python3 plot_P.py <file#>
+```
