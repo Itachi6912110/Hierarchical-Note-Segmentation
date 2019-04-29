@@ -7,7 +7,7 @@ bash/dataset.sh
 ```
 This will load the data you need for training and evaluation.   
 Training data are from TONAS dataset, and testing data are from ISMIR2014 evaluation dataset.   
-The features used for training is extracted by the tool at https://github.com/leo-so/VocalMelodyExtPatchCNN
+The features used for training is extracted by the tool at https://github.com/leo-so/VocalMelodyExtPatchCNN   
 Note that the features for training may be too large, and may lead to download abort.
 
 # Training
