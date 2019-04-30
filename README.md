@@ -45,5 +45,5 @@ bash script/eval_sdt6_fmeasure.sh
 ## Visualization
 You can visualize your results by the following command
 ```
-python3 plot_P.py <file#>
+python3 src/plot_P.py <file#>
 ```
